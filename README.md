@@ -15,7 +15,13 @@ A TypeScript-based RSVP manager that allows you to manage event responses. It su
    ```
 
 2. **Compile TypeScript files**:
-   npx tsc
 
-3. **Run the application**:  
+   ```bash
+   npx tsc
+   ```
+
+3. **Run the application**:
+
+   ```bash
    node dist/index.js
+   ```
